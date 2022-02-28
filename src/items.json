@@ -28,7 +28,7 @@
     "soups": [
         {
             "imgSrc": "https://veggiedesserts.com/wp-content/uploads/2019/01/tomato-soup-1-1-500x375.jpg", 
-            "name": "Tomatoe Soup", 
+            "name": "Tomato Soup", 
             "desc": "A sweet and salty bowl of juiced tomatoes.", 
             "price": "9.79" 
         }, 
@@ -51,7 +51,31 @@
             "name": "Turkey", 
             "desc": "Wild turkey roasted for some undetermined amount of time (may include food poisoning or the possibility of death).", 
             "price": "59" 
-        }
+        }, 
+        {
+            "imgSrc": "https://www.rachelcooks.com/wp-content/uploads/2021/10/acorn-squash-1500-3-square.jpg", 
+            "name": "Acorn Squash", 
+            "desc": "A distinctive hard shell with a sweet yellow-orange interior.", 
+            "price": "19" 
+        }, 
+        {
+            "imgSrc": "https://www.chefs-resources.com/wp-content/uploads/Seafood-Display.jpg", 
+            "name": "Fish", 
+            "desc": "Fish from the lake down the street (unknown species, may include food poisoning or the possibility of death).", 
+            "price": "79" 
+        }, 
+        {
+            "imgSrc": "https://images.food52.com/49DSJ0cuYG6tG80cIcitzJQ5x64=/2016x1344/filters:format(webp)/9a8094d6-39b5-4d97-b179-2c03f82f8e26--DSCN4384.JPG", 
+            "name": "Roasted Cassava", 
+            "desc": "Nutty-flavored starchy root vegetable with wood-like skin, roasted for sweetness.", 
+            "price": "34" 
+        }, 
+        {
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/7/75/Quesadilla_2.jpg", 
+            "name": "Quesadilla", 
+            "desc": "A heated tortilla filled with your favorite cheeses, meats, and spices.", 
+            "price": "14" 
+        } 
     ], 
     "sideDishes": [
         {
@@ -85,6 +109,12 @@
             "name": "Sliced Pineapple", 
             "desc": "Delicious fruity pineapple slices.", 
             "price": "7.99"
-        }
+        }, 
+        {
+            "imgSrc": "https://assets.epicurious.com/photos/583f2feee703bab774cf891a/4:3/w_871,h_653,c_limit/pumpkin-pie.jpg", 
+            "name": "Pumpkin Pie", 
+            "desc": "Delicious hard pastry crust with spiced, pumpkin-based custard filling.", 
+            "price": "19" 
+        } 
     ] 
 }
