@@ -27,13 +27,13 @@
     ], 
     "soups": [
         {
-            "imgSrc": "", 
+            "imgSrc": "https://veggiedesserts.com/wp-content/uploads/2019/01/tomato-soup-1-1-500x375.jpg", 
             "name": "Tomatoe Soup", 
             "desc": "A sweet and salty bowl of juiced tomatoes.", 
             "price": "9.79" 
         }, 
         {
-            "imgSrc": "", 
+            "imgSrc": "https://www.levanacooks.com/wp-content/uploads/2014/05/Cold-Fruit-Soup-Recipe-Levana-Cooks-500x275.jpg", 
             "name": "Berry Soup", 
             "desc": "Blueberries, cranberries, huckleberries, farkleberries... we've got 'em all!", 
             "price": "15.99" 
@@ -41,13 +41,13 @@
     ], 
     "mainCourses": [
         {
-            "imgSrc": "", 
+            "imgSrc": "https://www.chowhound.com/a/img/resize/a167a4485c1940affea4dac8e91614e09ac42a68/2014/09/28371_calamari_parsley_garlic_3000.jpg?fit=bounds&height=800&width=1280", 
             "name": "Sacrificial Squash", 
             "desc": "Cooked or raw, honor the gods while you enjoy a meal.", 
             "price": "34"
         }, 
         {
-            "imgSrc": "", 
+            "imgSrc": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/11/7/0/0170831_Alton-Roast-Turkey_s4x3.jpg.rend.hgtvcom.406.305.suffix/1382540635076.jpeg", 
             "name": "Turkey", 
             "desc": "Wild turkey roasted for some undetermined amount of time (may include food poisoning or the possibility of death).", 
             "price": "59" 
@@ -55,25 +55,25 @@
     ], 
     "sideDishes": [
         {
-            "imgSrc": "", 
+            "imgSrc": "https://www.recipetineats.com/wp-content/uploads/2020/03/Creamy-Mashed-Potato_8-copy.jpg", 
             "name": "Mashed Potatoes", 
             "desc": "Potatoes mashed into a magical whip with a smooth, buttery flavor. ", 
             "price": "3.99"
         }, 
         {
-            "imgSrc": "", 
+            "imgSrc": "https://www.simplyrecipes.com/thmb/86Bb6mlKhLP7a7QzgeEX9PhjSXE=/1600x1134/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__07__spicy-citrusy-black-beans-horiz-a-1600-8e0f7caaf2e949bf9cbe05541126a4bb.jpg", 
             "name": "Black Beans", 
             "desc": "Black beans, prepared fresh.", 
             "price": "3.49"
         }, 
         {
-            "imgSrc": "", 
+            "imgSrc": "https://media.healthyfood.com/wp-content/uploads/2016/09/Corn-on-the-cob-with-garlic-and-chive-butter-iStock-171575379.jpg", 
             "name": "Corn on the Cob", 
             "desc": "One or three cobs of corn to compliment your main course.", 
             "price": "3.49" 
         }, 
         {
-            "imgSrc": "", 
+            "imgSrc": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/04/red-yellow-green-bell-peppers.jpg?quality=82&strip=all", 
             "name": "Peppers", 
             "desc": "Add some spice to your meal (bell or chili).", 
             "price": "8.49" 
@@ -81,9 +81,9 @@
     ], 
     "desserts": [
         {
-            "imgSrc": "", 
+            "imgSrc": "https://www.onceuponachef.com/images/2017/06/How-to-Cut-A-Pineapple-9.jpg", 
             "name": "Sliced Pineapple", 
-            "desc": "Delicious fruity slices of pineapples.", 
+            "desc": "Delicious fruity pineapple slices.", 
             "price": "7.99"
         }
     ] 

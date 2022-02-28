@@ -1,4 +1,4 @@
-import { useState } from 'react'; 
+import { useState, useEffect } from 'react'; 
 import "./App.css";
 import ItemCard from './components/ItemCard'; 
 import items from './items.json'; 
@@ -42,6 +42,8 @@ function App() {
     }); 
     setTotal(nums.reduce((a, b) => a + b, 0).toFixed(2)); 
   }; 
+
+  useEffect(calculateTotal, [cart]); 
 
   return (
     <div>
