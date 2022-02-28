@@ -1,0 +1,90 @@
+{ 
+    "appetizers": [
+        {
+            "imgSrc": "https://post.healthline.com/wp-content/uploads/2020/08/766x415_THUMBNAIL_how-many-calories-in-sunflower-seeds-732x415.jpg", 
+            "name": "Sunflower Seeds", 
+            "desc": "A small bowl of sunflower seeds.", 
+            "price": "4.99" 
+        }, 
+        {
+            "imgSrc": "https://assets.epicurious.com/photos/5550d32fbf8983523f65bd00/4:3/w_1494,h_1120,c_limit/cornonthecob6x4.jpg", 
+            "name": "Corn on the Cob", 
+            "desc": "Three or six cobs of corn.", 
+            "price": "5.79" 
+        }, 
+        {
+            "imgSrc": "https://easyhealthyrecipes.com/wp-content/uploads/2021/06/Instant-Pot-Boiled-Peanuts-SF-4.jpg", 
+            "name": "Boiled Peanuts", 
+            "desc": "A unresistable smell so sweet they're bound to be scrumptious!", 
+            "price": "8.99"
+        }, 
+        {
+            "imgSrc": "https://res-3.cloudinary.com/sharecare/image/upload/c_fill,f_auto,g_center,h_630,w_1200/v1/articles/health-benefits-mixed-fruit-salad", 
+            "name": "Mixed Fruits", 
+            "desc": "Avacado, pineapple, quinoa, bananas, and sunflower seeds.", 
+            "price": "10.99"
+        }
+    ], 
+    "soups": [
+        {
+            "imgSrc": "", 
+            "name": "Tomatoe Soup", 
+            "desc": "A sweet and salty bowl of juiced tomatoes.", 
+            "price": "9.79" 
+        }, 
+        {
+            "imgSrc": "", 
+            "name": "Berry Soup", 
+            "desc": "Blueberries, cranberries, huckleberries, farkleberries... we've got 'em all!", 
+            "price": "15.99" 
+        }
+    ], 
+    "mainCourses": [
+        {
+            "imgSrc": "", 
+            "name": "Sacrificial Squash", 
+            "desc": "Cooked or raw, honor the gods while you enjoy a meal.", 
+            "price": "34"
+        }, 
+        {
+            "imgSrc": "", 
+            "name": "Turkey", 
+            "desc": "Wild turkey roasted for some undetermined amount of time (may include food poisoning or the possibility of death).", 
+            "price": "59" 
+        }
+    ], 
+    "sideDishes": [
+        {
+            "imgSrc": "", 
+            "name": "Mashed Potatoes", 
+            "desc": "Potatoes mashed into a magical whip with a smooth, buttery flavor. ", 
+            "price": "3.99"
+        }, 
+        {
+            "imgSrc": "", 
+            "name": "Black Beans", 
+            "desc": "Black beans, prepared fresh.", 
+            "price": "3.49"
+        }, 
+        {
+            "imgSrc": "", 
+            "name": "Corn on the Cob", 
+            "desc": "One or three cobs of corn to compliment your main course.", 
+            "price": "3.49" 
+        }, 
+        {
+            "imgSrc": "", 
+            "name": "Peppers", 
+            "desc": "Add some spice to your meal (bell or chili).", 
+            "price": "8.49" 
+        }
+    ], 
+    "desserts": [
+        {
+            "imgSrc": "", 
+            "name": "Sliced Pineapple", 
+            "desc": "Delicious fruity slices of pineapples.", 
+            "price": "7.99"
+        }
+    ] 
+}
