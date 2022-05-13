@@ -33,6 +33,7 @@ function App() {
     setCart([]); 
     console.log("Cart:", cart); 
     calculateTotal(); 
+    window.open(`https://www.paypal.com/paypalme/cwal5h/${total}`, "_blank"); 
   }; 
 
   const calculateTotal = () => {
